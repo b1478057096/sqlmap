@@ -1,0 +1,2 @@
+# sqlmap
+sqlmap from termux
